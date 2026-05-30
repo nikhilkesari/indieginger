@@ -1,0 +1,6 @@
+{
+  "name": "Indie Ginger",
+  "description": "An elegant, interactive portal showcasing the history, science, and a curated directory of artisanal Indian ginger ales with interactive flavor profiling.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
